@@ -1,0 +1,37 @@
+body{
+    background-color:;
+}
+.footer{
+    text-align:center;
+    padding:10px;
+    background-color:#ddd;
+
+}
+h2{
+    font-weight: bold;
+}
+table{
+    width: 50%;
+    border: 1px solid black;
+    text-align: left;
+}
+th{
+    background-color: #ddd;
+}
+td{
+    
+}
+colgroup{
+    
+}
+
+dt{
+    font-weight:bold;
+    font-size:2em;
+}
+section{
+    padding:10px;
+    border:1px solid black;
+    margin:10px;
+}
+
